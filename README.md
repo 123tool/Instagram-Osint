@@ -18,4 +18,4 @@ Pastikan Anda sudah menginstal Python di sistem Anda.
 1. **Clone Repository ini:**
    ```bash
    git clone [https://github.com/123tool/Instagram-Osint.git]
-   cd spy-e-ig
+   cd Instagram-Osint

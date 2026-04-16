@@ -4,8 +4,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![OSINT](https://img.shields.io/badge/Field-OSINT-red.svg)
 
-**SPY-E** adalah tool intelijen sederhana berbasis Python yang digunakan untuk melakukan *lookup* informasi akun Instagram secara publik. Tool ini sangat berguna untuk kebutuhan **OSINT** (Open Source Intelligence) guna memverifikasi email atau nomor telepon yang terhubung pada sebuah akun.
-
 ## ✨ Fitur Utama
 - **Email Masking Discovery:** Menampilkan email yang disensor (obfuscated) dari target.
 - **Phone Number Discovery:** Menampilkan nomor telepon yang disensor.
@@ -13,11 +11,11 @@
 - **Account Status:** Mengecek status verifikasi (Centang Biru) dan ID User asli.
 - **Anti-Kiddies Protection:** Menggunakan Headers asli Instagram untuk menghindari blokir API.
 
-## 🚀 Cara Instalasi
+## 🚀 Instalasi
 
 Pastikan Anda sudah menginstal Python di sistem Anda.
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/username-kamu/spy-e-ig.git](https://github.com/username-kamu/spy-e-ig.git)
+   git clone [https://github.com/123tool/Instagram-Osint.git]
    cd spy-e-ig
